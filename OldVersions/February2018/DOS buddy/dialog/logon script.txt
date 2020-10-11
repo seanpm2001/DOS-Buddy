@@ -1,0 +1,12 @@
+<> welcome back <name>
+<> do you wish to get the same help as set up or try something different today? (y/n)
+<Y> do you need help now, or later <n/l>
+<N> what do you need help with?
+<l> ok, i will check back in 15 minutes
+<n> ok, what do you want help with this time?
+*> office
+*> commands
+*> gaming
+<office> what do you need help with?
+<commands> what do you need help with?
+<gaming> what do you need help with?

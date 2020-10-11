@@ -1,0 +1,16 @@
+<> hello there!
+<> i am your command line assistant
+<> i will help you with your work
+<> but first we need to set up some info
+<> what is your name
+><
+<> well hello there <name>
+<> please specify what you want help with
+*> office
+*> commands
+*> gaming
+<> i will do my best <name>
+<> to get help from me, type in: DOSBUDDY
+<> i will remind you if you forget
+<> we are going to have so much fun!
+<> let's get started <name>

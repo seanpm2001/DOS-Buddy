@@ -1,0 +1,3 @@
+<> are you sure you want to log me off? <y/n>
+<y> goodbye, see you later!
+<n> ok, i will stay
